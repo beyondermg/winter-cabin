@@ -1,0 +1,6 @@
+{
+  "name": "winter-cabin",
+  "owner": { "name": "beyondermg" },
+  "metadata": { "description": "Winter Cabin: a dark cozy winter theme for Claude Code." },
+  "plugins": [{ "name": "winter-cabin", "source": "./", "description": "Dark cozy winter night: falling snow, aurora, a lamp-lit cabin, frosted chat and a crackling fire." }]
+}
